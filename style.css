@@ -1,0 +1,2 @@
+body { font-family: sans-serif; transition: background 0.3s, color 0.3s; }
+.dark { background: #333; color: white; }
